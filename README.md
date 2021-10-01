@@ -9,3 +9,4 @@
 * [Python Basics -4- Conditional Statements (if, elif, else)](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-4-%20Conditional%20Statements%20(%20if%2C%20elif%2C%20else%20)%20-%20%E8%AE%B2%E4%B9%89.ipynb)
 * [Python Basics -5- For Loops](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-5-%20For%20Loops%20-%20%E8%AE%B2%E4%B9%89.ipynb)
 * [Python Basics -6- While Loops](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-6-%20While%20Loops%20-%20%E8%AE%B2%E4%B9%89.ipynb)
+* [Python Basics -7- Built-in Functions of Python](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-7-%20Built-in%20Functions%20of%20Python%20-%20%E8%AE%B2%E4%B9%89.ipynb)
