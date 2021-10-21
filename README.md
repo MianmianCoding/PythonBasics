@@ -11,3 +11,4 @@
 * [Python Basics -6- While Loops](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-6-%20While%20Loops%20-%20%E8%AE%B2%E4%B9%89.ipynb)
 * [Python Basics -8- Operators In, And, Or](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-7-%20Built-in%20Functions%20of%20Python%20-%20%E8%AE%B2%E4%B9%89.ipynb)
 * [Python Basics -9- List, Set, Dictionary Comprehension](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-9-%20List%2C%20Set%2C%20Dictionary%20Comprehension%20-%20%E8%AE%B2%E4%B9%89.ipynb)
+* [Python Basics -10- Functions](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-10-%20Functions%20-%20%E8%AE%B2%E4%B9%89.ipynb)
