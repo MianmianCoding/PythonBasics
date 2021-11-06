@@ -13,3 +13,4 @@
 * [Python Basics -9- List, Set, Dictionary Comprehension](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-9-%20List%2C%20Set%2C%20Dictionary%20Comprehension%20-%20%E8%AE%B2%E4%B9%89.ipynb)
 * [Python Basics -10- Functions](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-10-%20Functions%20-%20%E8%AE%B2%E4%B9%89.ipynb)
 * [Python Basics -11- Map, Filter and Lambda](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-11-%20Map%2C%20Filter%20and%20Lambda%20-%20%E8%AE%B2%E4%B9%89.ipynb)
+* [Python Basics -12- Scope and LEGB Rule](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-12-%20Scope%20and%20LEGB%20Rule%20-%20%E8%AE%B2%E4%B9%89.ipynb)
