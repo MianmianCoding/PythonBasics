@@ -19,7 +19,7 @@
 * [Python Basics -14- Inheritance and Polymorphism](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-14-%20Inheritance%20and%20Polymorphism%20-%20%E8%AE%B2%E4%B9%89.ipynb)
 * [Python Basics -15- Encapsulation and Abstraction](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-15-%20Encapsulation%20and%20Abstraction%20-%20%E8%AE%B2%E4%B9%89.ipynb)
 * [Python Basics -16- OOP examples](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-16-%20%E4%B8%80%E5%AE%9A%E8%A6%81%E7%9C%8B%E7%9A%84%20OOP%20examples%20-%20%E8%AE%B2%E4%B9%89.ipynb)
-* [Python Basics -17- Reading and Writing to Files -讲义.ipynb](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-17-%20Reading%20and%20Writing%20to%20Files%20-%E8%AE%B2%E4%B9%89.ipynb)
+* [Python Basics -17- Reading and Writing to Files](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-17-%20Reading%20and%20Writing%20to%20Files%20-%E8%AE%B2%E4%B9%89.ipynb)
 * [Python Basics -18- Error Handling](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-18-%20Error%20Handling%20-%20%E8%AE%B2%E4%B9%89.ipynb)
 * [Python Basics -19- Docstring and Doctest](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-19-%20Docstring%20and%20Doctest%20-%20%E8%AE%B2%E4%B9%89.ipynb)
 * [Python Basics -20- Decorator](https://github.com/MianmianCoding/PythonBasics/blob/main/%E7%BB%B5%E7%BB%B5%20Python%20Basics%20-20-%20Decorator%20-%20%E8%AE%B2%E4%B9%89.ipynb)
